@@ -260,7 +260,7 @@ print(f"Nike products: {len(nike_products)}")
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/ea23eb6d-950e-41bf-94b0-12c461fdbb67" />
 
 
-**Dashboard Home View:**
+**Dashboard Home View:https://asosdashboardpy-bza3b8uisxbqsqdhbu7hzs.streamlit.app/**
 - KPI cards showing key metrics
 - Stock distribution pie chart
 - Top brands bar chart
@@ -334,6 +334,6 @@ This project is for educational/portfolio purposes based on https://www.youtube.
 
 **Built with ❤️ for the IBM Data Analytics Learning Journey (https://github.com/KINGAKWO/ibm-data-analytics-journey)**
 
-📊 [Explore the Dashboard](./asos_dashboard.py) | 📈 [View Summary Report](./summary report.md) | 📚 [Data Dictionary](./data_dictionary.md)
+📊 [Explore the Dashboard](./asos_dashboard.py)(https://asosdashboardpy-bza3b8uisxbqsqdhbu7hzs.streamlit.app/) | 📈 [View Summary Report](./summary report.md) | 📚 [Data Dictionary](./data_dictionary.md)
 
 </div>
