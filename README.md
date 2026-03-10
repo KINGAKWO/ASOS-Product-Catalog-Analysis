@@ -326,7 +326,7 @@ This project is for educational/portfolio purposes based on https://www.youtube.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | January 2026 | Initial release with cleaning, analysis, and dashboard |
+| 1.0 | February 2026 | Initial release with cleaning, analysis, and dashboard |
 
 ---
 
