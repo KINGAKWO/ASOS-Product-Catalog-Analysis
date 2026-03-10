@@ -8,7 +8,8 @@
         "README.md",
         "asos_dashboard.py",
         "products_asos.csv",
-        "products_asos_in_stock.csv"
+        "products_asos_in_stock.csv",
+        "products_asos_cleaned.csv"
       ]
     },
     "vscode": {
