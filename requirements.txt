@@ -1,0 +1,23 @@
+# ============================================
+# ASOS Product Analysis Dashboard - Dependencies
+# ============================================
+# Install with: pip install -r requirements.txt
+# Or: python -m pip install -r requirements.txt
+# ============================================
+
+# --- Core Data Analysis ---
+pandas
+numpy
+
+# --- Dashboard Framework ---
+streamlit
+
+# --- Interactive Visualization ---
+plotly
+matplotlib
+seaborn
+
+# --- Statistical Analysis ---
+scipy
+scikit-learn
+
