@@ -332,7 +332,7 @@ This project is for educational/portfolio purposes based on https://www.youtube.
 
 <div align="center">
 
-**Built with ❤️ for the IBM Data Analytics Learning Journey**
+**Built with ❤️ for the IBM Data Analytics Learning Journey (https://github.com/KINGAKWO/ibm-data-analytics-journey)**
 
 📊 [Explore the Dashboard](./asos_dashboard.py) | 📈 [View Summary Report](./summary report.md) | 📚 [Data Dictionary](./data_dictionary.md)
 
