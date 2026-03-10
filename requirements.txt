@@ -5,19 +5,12 @@
 # Or: python -m pip install -r requirements.txt
 # ============================================
 
-# --- Core Data Analysis ---
+streamlit>=1.52.0
 pandas
-numpy
-
-# --- Dashboard Framework ---
-streamlit
-
-# --- Interactive Visualization ---
 plotly
+altair
+numpy
 matplotlib
 seaborn
-
-# --- Statistical Analysis ---
 scipy
 scikit-learn
-
