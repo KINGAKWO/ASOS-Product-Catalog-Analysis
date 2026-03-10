@@ -195,4 +195,5 @@ if df is not None:
     """, unsafe_allow_html=True)
 
 else:
+
     st.error("Dashboard cannot be displayed. Please fix the data file issue first.")
